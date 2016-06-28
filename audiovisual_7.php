@@ -1,4 +1,5 @@
 <?php
+// WIll be updated on Jul
 require_once ('rooms.inc');
 $page_options['title'] = 'Equipment Rental Pricing';
 $page_options['styles'] = 'table.display td, table.display th{ padding: 5px; font-size: 12px;}';

@@ -1,4 +1,5 @@
 <?php
+// WIll be updated on Jul
   require_once('template/rooms.inc');
   $page_options['title'] = 'Room Rates';
   $page_options['styles'] = 'table.display td, table.display th{ padding:4px; font-size:10px;}';
