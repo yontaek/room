@@ -1,6 +1,7 @@
 <?php
 //index.php
 // Will be updated on July
+// Edit
 require_once ('rooms.inc');
 require_once ('hours.inc');
 $page_options['title'] = 'Event Services';
